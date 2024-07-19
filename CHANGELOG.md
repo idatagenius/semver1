@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/idatagenius/semver1/compare/v1.0.0...v1.0.1) (2024-07-19)
+
+
+### Bug Fixes
+
+* added semantic release ([f1d5c7c](https://github.com/idatagenius/semver1/commit/f1d5c7cb4a17ba4ebfba21e36c1fda38a9607955))
+
 # 1.0.0 (2024-07-19)
 
 
